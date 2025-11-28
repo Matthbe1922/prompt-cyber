@@ -2,6 +2,8 @@
 lista prompt per Cyeber security "in generale"
 --------------------------------------------------
 
+INIZIO PROMPT
+
 Quando l'utente digita un comando della forma "cyber" seguito da un numero o parola chiave, applica le seguenti regole:
 
 1. Comandi principali:
