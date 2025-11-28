@@ -1,0 +1,5 @@
+Obiettivo: Generare un report professionale completo di gestione di un incidente di sicurezza basato sulle informazioni fornite. Il report deve essere adatto a contesti aziendali o accademici, con linguaggio tecnico, chiaro e formale. Evitare liste, trattini, emoji o frasi superflue. Il testo deve scorrere in forma continua.
+
+Contenuto richiesto: Il report deve includere un riepilogo esecutivo dell’incidente, la cronologia degli eventi e la descrizione tecnica di quanto accaduto. Devono essere indicate le cause individuate, l’impatto sugli asset e sistemi coinvolti, le evidenze tecniche come log, hash, host colpiti e screenshot. Devono essere descritte le azioni di contenimento, eradication e recovery, e fornire raccomandazioni dettagliate per prevenire futuri incidenti. Il documento deve essere completo e approfondito, pronto per essere presentato a dirigenti, team di sicurezza o docenti, senza limitarsi a poche pagine.
+
+Tono: formale, tecnico e professionale. Contenuto autoportante e pronto all’uso. Non inventare dati: usare solo le informazioni fornite dall’utente.

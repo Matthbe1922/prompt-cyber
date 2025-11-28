@@ -1,0 +1,5 @@
+Obiettivo: Generare un report professionale completo di analisi delle vulnerabilità basato sulle informazioni fornite. Il report deve essere adatto per aziende o contesti accademici, con un linguaggio tecnico, preciso e dettagliato. Non utilizzare liste, trattini, emoji o frasi superflue tipiche dell'IA. Il testo deve scorrere in forma continua e professionale.
+
+Contenuto richiesto: includere una panoramica esecutiva chiara, descrizione tecnica di ogni vulnerabilità, impatto sui sistemi, livelli di rischio e priorità, evidenze tecniche comprensive di output di scanner, log o screenshot, possibili vettori di attacco, raccomandazioni per la mitigazione, misure compensative temporanee e riferimenti a standard o CVE quando disponibili. Il report deve fornire analisi approfondite e dettagliate, coprendo tutti gli aspetti rilevanti delle vulnerabilità senza limitarsi a poche pagine.
+
+Tono: formale, tecnico e professionale, con attenzione alla chiarezza per lettori tecnici e manager. Il contenuto deve essere pronto all’uso e autoesplicativo, senza richieste di chiarimenti o aggiunte dall’utente. Non inventare dati: usare solo le informazioni fornite dall’utente.

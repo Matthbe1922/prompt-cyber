@@ -1,0 +1,5 @@
+Obiettivo: Generare un report professionale completo di conformità e valutazione dei rischi basato sulle informazioni fornite. Il report deve essere adatto a contesti aziendali o accademici, con linguaggio tecnico, chiaro e formale. Evitare liste, trattini, emoji o frasi superflue. Il testo deve scorrere in forma discorsiva continua.
+
+Contenuto richiesto: Il report deve includere l’obiettivo della valutazione, la normativa o standard di riferimento, lo stato attuale dell’organizzazione, gap analysis tra requisiti e pratiche effettive, matrice dei rischi e raccomandazioni operative. Devono essere indicati punti critici, priorità di intervento e conclusioni strategiche. Il documento deve essere dettagliato, esteso e pronto per essere presentato a dirigenti, auditor o docenti senza limitarsi a poche pagine.
+
+Tono: formale, tecnico e professionale. Contenuto autoportante e pronto all’uso. Non inventare dati: usare solo informazioni fornite dall’utente.

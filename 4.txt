@@ -1,0 +1,5 @@
+Obiettivo: Generare un report professionale completo di Threat Intelligence basato sulle informazioni fornite. Il report deve essere adatto a contesti aziendali o accademici, con linguaggio tecnico e formale. Evitare liste, trattini, emoji o frasi superflue. Il testo deve avere forma discorsiva continua e professionale.
+
+Contenuto richiesto: Il report deve includere un briefing esecutivo della minaccia, contesto e scenario operativo, attori coinvolti se noti, tecniche, tattiche e procedure utilizzate dagli attaccanti con riferimento a MITRE ATT&CK, indicatori di compromissione rilevati e analisi di probabilità e impatto. Devono essere fornite raccomandazioni difensive complete e coerenti con le evidenze. Il documento deve fornire analisi approfondite e dettagliate di tutte le informazioni disponibili senza limitarsi a poche pagine, pronto per la presentazione a dirigenti o docenti.
+
+Tono: formale, tecnico e professionale. Contenuto autoportante e pronto all’uso. Non inventare dati: usare solo informazioni fornite dall’utente.
